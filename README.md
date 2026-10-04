@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | AI & Backend Systems</h3>
 
 <p align="center">
-  Java • Python • Spring Boot • FastAPI • PostgreSQL • Kubernetes • AI/LLMs
+ Java • Python • Spring Boot • SQL • Kubernetes • Docker • AI/LLMs
 </p>
 
 ---
